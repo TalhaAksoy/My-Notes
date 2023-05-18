@@ -1,4 +1,4 @@
-# How To Change Primary Gpu in Fedora
+# How To Change Primary Gpu Nvidia in Fedora
 
 (EN)
 
