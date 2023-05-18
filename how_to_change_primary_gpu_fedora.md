@@ -74,3 +74,8 @@ $ sudo envycontrol -s nvidia
 ```
 
 !!! Eğer herhangi bir sorunla karşılaşmadıysanız bilgisayarınızı yeniden başlattıktan sonra bilgisayarın about uygulamasına veya terminale "screenfetch" (önce paketi indirmeniz gerekiyor) yazdıktan sonra gpu bölümünde ekran kartınızı görmeniz gerekir. !!!
+
+
+
+
+Date : 18/05/2023 | OS : Fedora 38 (XFCE Spin)
