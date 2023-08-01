@@ -37,6 +37,8 @@ $ sudo envycontrol -s nvidia
 
 !!! If you have not encountered any problems, after restarting your computer, you should see your video card in the gpu section after typing "screenfetch" (you need to download the package first) in the computer's about app or terminal. !!!
 
+!!! If you use Wayland gnome you change this option => sudo /etc/gdm/custom.conf > WaylandEnable=False !!!
+
 ---
 
 (TR)
@@ -75,7 +77,6 @@ $ sudo envycontrol -s nvidia
 
 !!! Eğer herhangi bir sorunla karşılaşmadıysanız bilgisayarınızı yeniden başlattıktan sonra bilgisayarın about uygulamasına veya terminale "screenfetch" (önce paketi indirmeniz gerekiyor) yazdıktan sonra gpu bölümünde ekran kartınızı görmeniz gerekir. !!!
 
-
-
+!!! Wayland Gnome kullaniyorsaniz /etc/gdm/custom.conf dosyasindaki WaylandEnable ayarini False yapmaniz gerekiyor !!!
 
 Date : 18/05/2023 | OS : Fedora 38 (XFCE Spin)
